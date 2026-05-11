@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSScreenCaptureDescription</key>
+  <string>Audio Recorder needs Screen Recording permission to capture audio from a chosen application using ScreenCaptureKit. No video is saved.</string>
+  <key>NSAudioCaptureUsageDescription</key>
+  <string>Audio Recorder captures the audio of an application you select and saves it as an MP3.</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>Audio Recorder optionally mixes your microphone into the recording so both sides of a meeting are captured.</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>13.0</string>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.utilities</string>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+</dict>
+</plist>
