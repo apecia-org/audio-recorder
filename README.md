@@ -1,5 +1,7 @@
 # Audio Recorder
 
+🎙️ Apecia Audio Recorder is a free, open-source alternative to tools like Audio Hijack or Rogue Amoeba's Loopback. It is a high-performance desktop app for recording audio from your microphone and/or a specific running application (per-app audio) without capturing system-wide noise.
+
 A cross-platform desktop app for recording audio from your **microphone** and/or a **specific running application**, saved as MP3. Built with [Tauri 2](https://tauri.app/) (Rust) and a [React](https://react.dev/) + TypeScript frontend.
 
 Pick an app from the list (browser tab, meeting app, music player, etc.), optionally mix in your mic, hit record, and get an MP3 on disk.
